@@ -1,0 +1,89 @@
+.main{
+    margin: 0px 80px;
+    padding-bottom: 20px;
+    background-color: rgba(35, 40, 75, 0.75);
+    padding: 0px 50px;
+}
+.title{
+text-align: center;
+margin-top: 20px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+/* identical to box height */
+color: #FFFFFF;
+
+}
+hr {
+    margin: 0px 0;
+    color: inherit;
+    border: 0;
+    border-top: 1px solid;
+    opacity: .25;
+}
+
+.table{
+    margin: 20px 30px;
+    color:#FFFFFF;
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+}
+.leftcol{
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+color: #FFFFFF;
+text-align: end;
+}
+.epoch span{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.epoch hr{
+position: absolute;
+width: 130.01px;
+height: 0px;
+left: 890px;
+top: 125px;
+border: 0.5px solid rgba(195, 197, 203, 0.75);
+}
+.epoch2 span{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px !important;
+}
+
+.epoch2 hr{
+position: absolute;
+width: 130.01px;
+height: 0px;
+left: 890px;
+top: 200px;
+border: 0.5px solid rgba(195, 197, 203, 0.75);
+}
+
+.epoch3{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: end;
+
+color: #FFFFFF;
+}
+
+.epoch3 span{
+    color: aquamarine;
+}

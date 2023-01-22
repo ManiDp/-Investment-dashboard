@@ -1,0 +1,85 @@
+.main3{
+    margin-left: 80px;
+}
+
+.instruction{
+text-align: end;
+font-style: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+color: #9EE6FF;
+margin:15px 0px;
+}
+.button{
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+background: radial-gradient(59345.13% 4094144349.28% at 39511.5% -2722397851.45%, rgba(0, 245, 171, 0.5) 0%, rgba(0, 173, 232, 0.5) 100%);
+border: 0.5px solid #E41A1A;
+
+}
+
+.chatbutton{
+margin:20px 3px;
+background: rgba(255, 255, 255, 0.5);
+border: 1px solid #728CDF;
+backdrop-filter: blur(12.5px);
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+font-feature-settings: 'liga' off;
+color: #000000;
+}
+
+.card{
+    background-color: rgba(35, 40, 75, 0.75);
+    padding: 10px 20px;
+    border: 1px solid #728CDF;
+
+}
+.boardroom{
+    font-weight: bold;
+}
+.stake{
+    font-size: 14px;
+}
+.tvl{
+    font-size: 14px;
+}
+.totalstakes{
+    text-align: end;
+}
+.heading{
+    font-size: 14px;
+}
+.value{
+    font-size:30px ;
+    font-weight: bold;
+    font-family: 'Nunito';
+}
+.value2{
+    font-size: 20px;
+}
+
+.button2{
+    
+    border: 1px solid white !important;
+    color: white  !important;
+    border-radius: 20px !important;
+    height: 30px !important;
+    background-color: rgba(35, 40, 75, 0.75);
+    margin: 5px;
+    font-size: 12px;
+    min-width: 120px!important;
+
+}
+svg {
+    vertical-align: middle;
+    background: white;
+    color: skyblue;
+    border-radius: 50%;
+    margin: 2px 4px;
+}
